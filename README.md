@@ -3,7 +3,7 @@ This repository was made by Sana Munawar as part of my Computing for Bioinformat
 
 ## The Death of Socrates
 
-D:\NUST\MS 2022 - 2024\Semester 3 Fall 2023\Computing for BI\Intro to GIT\Intro_to_GIT-CBI\David_-_The_Death_of_Socrates.jpg
+![The Death of Socrates](https://en.wikipedia.org/wiki/The_Death_of_Socrates#/media/File:David_-_The_Death_of_Socrates.jpg)
 
 _French: La Mort de Socrate_
 This is an oil on canvas painting by French painter **Jacques-Louis David** in 1787.
